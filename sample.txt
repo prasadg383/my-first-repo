@@ -1,1 +1,2 @@
 new changes done here
+On Linux or Mac OS X you can unzip ngrok from a terminal with the following command. On Windows, just double click ngrok.zip to extract it.
